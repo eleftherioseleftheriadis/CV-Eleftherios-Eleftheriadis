@@ -3,6 +3,7 @@
 name: Ελευθέριος Ελευθεριάδης
 address:
 - Αδαμαντίου Αδαμαντίου 14, Κάτω Πολεμίδια, Λεμεσός
+- Αγιας Θεοδώρας 21, Κέρκυρα
 phone: "+35797765557"
        "+306944821535"
 email: freedomeleftherias@gmail.com
@@ -19,32 +20,35 @@ skills:
 - Restaurant Service, Bar Service
 
 experience:
-- years: 
+- years: 2013
   employer: Golden Beach Restaurant
-  job: Freier Philisoph
-  city: Sils-Maria
-- years: 1869–-1879
-  employer: Universität Basel
-  job: Professor für klassische Philologie
-  city: Basel
-- years: 1867--1868
-  employer: Preußischen Artillerie
-  job: Kanonier
-  city: Naumburg
+  job: Waiter
+  city: Limassol, Cyprus
+- years: 2015-2017
+  job: Cyprus Military Service
+  city: Limassol, Cyprus
+- years: 2017
+  employer: Χαραλαμπίδης-Κρίστης
+  job: Παραγωγή Τυριού
+  city: Limassol, Cyprus
+- years: 2017
+  employer: Fasouri Watermania Waterpark
+  job: Pool Lifeguard
+  city: Limassol, Cyprus
+- years: 2018
+  employer: Guaba Beach Bar
+  job: Waiter
+  city: Limassol, Cyprus
 
 education:
-- year: 1867
-  subject: Philology
-  institute: Leipzig Universität
-  city: Leipzig
-- year: 1864
-  subject: Abitur
-  institute: Schulpforta
-  city: Naumburg
+- year: 2017-Present
+  subject: Computer Science
+  institute: Ionian Univercity
+  city: Corfu
 
 # Settings
-mainfont: Hoefler Text
-fontsize: 10pt
+mainfont: Times New Roman
+fontsize: 11pt
 lang: English
 geometry: a4paper, left=35mm, right=35mm, top=51mm, bottom=17mm
 ---
