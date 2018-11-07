@@ -11,10 +11,6 @@ email: freedomeleftherias@gmail.com
 urls:
 - facebook.com/eleftherioseleftheriadis1997
 
-# Sections
-
-intro: ""
-
 skills:
 - Pool Lifeguard, Free Diving
 - Restaurant Service, Bar Service
@@ -45,6 +41,9 @@ education:
   subject: Computer Science
   institute: Ionian Univercity
   city: Corfu
+  
+  
+image::preview.jpg[scaledwidth=75%]
 
 # Settings
 mainfont: Times New Roman
