@@ -1,7 +1,3 @@
-# CV Curriculum Vitae
-
-## Eleftherios Eleftheriadis
-
 ## Personal Details:
 Using YAML
 ```YAML
