@@ -12,6 +12,7 @@ email: freedomeleftherias@gmail.com
 # Insert URLs without http://
 urls:
 - facebook.com/eleftherioseleftheriadis1997
+---
 ```
 Using Latex
 
@@ -58,4 +59,4 @@ Using Latex
 
 ## CV PDF PREVIEW
 
-![img](https://github.com/eleftherioseleftheriadis/cv-boilerplate/blob/master/preview.jpg)
+<img height="700" src="https://github.com/eleftherioseleftheriadis/cv-boilerplate/blob/master/preview.jpg" />
