@@ -59,4 +59,4 @@ Using Latex
 
 ## CV PDF PREVIEW
 
-<img height="700" src="https://github.com/eleftherioseleftheriadis/cv-boilerplate/blob/master/preview.jpg" />
+<img height="700" src="https://github.com/eleftherioseleftheriadis/CV-Eleftherios-Eleftheriadis/blob/master/preview.jpg" />
