@@ -62,4 +62,4 @@ Using Latex
 
 ## CV PDF PREVIEW
 
-![alt text](https://github.com/eleftherioseleftheriadis/cv-boilerplate/blob/master/preview.jpg)
+![img](https://github.com/eleftherioseleftheriadis/cv-boilerplate/blob/master/preview.jpg)
