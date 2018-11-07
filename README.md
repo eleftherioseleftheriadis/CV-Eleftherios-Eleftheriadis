@@ -58,5 +58,6 @@ Using Latex
 
 
 ## CV PDF PREVIEW
-
+<br>
 <img height="700" src="https://github.com/eleftherioseleftheriadis/CV-Eleftherios-Eleftheriadis/blob/master/preview.jpg" />
+<br>
